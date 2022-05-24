@@ -1,0 +1,10 @@
+{
+  "name": "osn2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "csv-stringify": "^6.0.5"
+  }
+}

@@ -5,3 +5,5 @@ I like sorting the Open Source North schedule in a spreadsheet format. I wrote a
 ```
 curl -v https://opensourcenorth.com/schedule --output schedule.html
 ```
+
+Go take a look: https://adept.work/osn22
